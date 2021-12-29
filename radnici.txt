@@ -1,0 +1,5 @@
+Refik Hadzovic 4 2 750
+Hamza Turkovic 3 4 1500
+Huso Kadragic 7 3 900
+Maid Smajic 6 3 1050
+Elvir Alicehajic 3 2 600 

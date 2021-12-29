@@ -1,0 +1,6 @@
+Kenan Sabanovic 4 5 4.5
+Adnan Pasalic 3 4 4.2
+Armin Fejzic 3 5 5.0
+Belma Spahic 3 5 4.9
+Gabrijel Stojic 1 5 4.7
+Ilma Cejvan 2 4 4.2

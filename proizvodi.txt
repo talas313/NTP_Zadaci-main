@@ -1,0 +1,7 @@
+Remen FIAT 17.5 20
+Motor Audi 528.30 5
+Svjecice FIAT 7.50 55
+Retrovizor Renault 55.60 0
+Pumpa Audi 52.70 3
+Felge FIAT 45.20 0
+Antifriz Daglon 5.70 0 
